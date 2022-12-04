@@ -1,0 +1,29 @@
+Passamos por muitos conhecimentos ao longo desse curso, não é?
+
+De início, carregamos dados fornecidos por fontes externas, como o Kaggle e o MovieLens. Hoje, o Google também possui o Google Dataset Search, que nos permite buscar conjuntos de dados que podem ser utilizados para trabalho ou estudo.
+
+Os arquvos .csv que utilizamos no Google Colab foram carregados com o Pandas, uma biblioteca do Python. Essa biblioteca também foi utilizada para renomear as colunas dos conjuntos de dados, contar os valores, exibir os valores únicos, fazer queries e operações e até mesmo plotar os dados em gráficos (como histogramas e gráficos de pizza).
+
+Na nossa plataforma, existem outros cursos que podem aprofundar ainda mais os seus conhecimentos sobre a biblioteca Pandas, como Data Science: Introdução ao Python Pandas e o Pandas: Formatos diferentes de entrada e saída (IO)!
+
+Também abordamos os diferentes tipos de variáveis que podem existir em um conjunto, como variáveis quantitativas, variáveis qualitativas, variáveis categóricas ordenadas e variáveis categóricas nominais.
+
+Outras bibliotecas que utilizamos nesse processo foram o Seaborn (para gerar visualizações), o Matplotlib (para customizar e refinar os gráficos) e o Numpy (para fazer operações com nossos dados).
+
+Também temos cursos específicos de Data Visualization que abordam as melhores práticas na criação de visualizações!
+
+Em seguida, estudamos as medidas de tendência, como a mediana, a média e a moda, que tentam resumir o comportamento dos nossos dados em um único número. Além disso, aprendemos sobre as tendências de dispersão, como os quartis e o desvio padrão.
+
+Todo esse processo consiste, basicamente, em uma análise exploratória dos dados (exploratory data analysis)! À medida em que essa exploração é efetivada, também podemos realizar testes para buscar conclusões ainda mais profundas a respeito dos nossos conjuntos.
+
+Por exemplo, será que o filme Toy Story é realmente melhor que Jumanji? Ou será que, por acaso, as pessoas que avaliaram esses filmes gostavam mais de Toy Story? Será que essas pessoas eram mais jovens e, por isso, preferem esse filme? Ou que o nosso conjunto está pequeno demais para analisarmos satisfatoriamente os resultados?
+
+Em outros termos, será que as diferenças encontradas entre os dados são estatisticamente relevantes? Para solucionar essa, entre outras questões, existem os testes estatísticos, que são abordados em cursos de Estatística ou de Data Science aqui na Alura!
+
+Acha pouco? E se disséssemos que é possível modelar os processos e os dados para tentar entender como eles influenciam em uma variável final — por exemplo, na tentativa de prever quanto um determinado filme irá faturar, quando lançado?
+
+Todos esses eixos de estudo fazem parte do que chamamos de Data Science, que você pode explorar conosco aqui na plataforma e na construção da sua carreira.
+
+Se ficou com dúvidas, não deixe de procurar o nosso fórum! E não se esqueça de avaliar o curso ao completá-lo, pois isso nos ajuda a entender as qualidades e os pontos a serem aperfeiçoados em nossa plataforma.
+
+Bons estudos e até a próxima!
